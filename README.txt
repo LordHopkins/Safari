@@ -1,1 +1,1 @@
-THIS IS MY 100th ATTEMPT AT MAKING A WEBPAGE FROM SCRATCH
+Simply a practice commit for a google webpage.
